@@ -26,7 +26,7 @@ export default function Bantuan() {
             Untuk bantuan lebih lanjut, silakan hubungi dibawah ini
           </p>
           <a href="mailto:jetly@gmail.com" className="text-base font-light text-[#FF735C] underline"
-            >putttnisa@gmail.com
+            >nisaaaaaa@gmail.com
           </a>
         </div>
       </div>
