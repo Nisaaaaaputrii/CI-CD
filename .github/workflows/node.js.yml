@@ -25,4 +25,4 @@ jobs:
       run: npm ci
 
     - name: run build project
-      run: npm run build --if-present
+      run: npm run buildd
